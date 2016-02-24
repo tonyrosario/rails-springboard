@@ -26,11 +26,11 @@ group :development, :test do
   gem "pry-stack_explorer"
   gem "pry-theme"
   gem "rspec-rails"
+  gem "shoulda-matchers"
 end
 
 group :test do
   gem "fuubar"
-  gem "shoulda-matchers", require: false
 end
 
 group :staging do
