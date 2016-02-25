@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "awesome_print"
 gem "coffee-rails", "~> 4.1.0"
 gem "database_cleaner"
 gem "jbuilder", "~> 2.0"
