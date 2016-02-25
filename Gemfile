@@ -17,6 +17,7 @@ group :development do
   gem "better_errors"
   gem "brakeman", require: false
   gem "bullet"
+  gem "bundler-audit"
   gem "spring"
   gem "spring-commands-rspec"
 end
