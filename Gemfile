@@ -34,6 +34,7 @@ group :development, :test do
   gem "pry-rescue"
   gem "pry-stack_explorer"
   gem "pry-theme"
+  gem "rubocop", "~> 0.37.0", require: false
   gem "rspec-rails"
   gem "shoulda-matchers"
 end
