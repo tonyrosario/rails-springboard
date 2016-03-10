@@ -27,14 +27,6 @@ end
 
 group :development, :test do
   gem "pry-byebug"
-  gem "pry-coolline"
-  gem "pry-git"
-  gem "pry-nav"
-  gem "pry-rails"
-  gem "pry-remote"
-  gem "pry-rescue"
-  gem "pry-stack_explorer"
-  gem "pry-theme"
   gem "rubocop", "~> 0.37.0", require: false
   gem "rspec-rails"
   gem "shoulda-matchers"
